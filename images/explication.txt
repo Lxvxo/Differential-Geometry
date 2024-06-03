@@ -1,0 +1,4 @@
+le max et le min sont dans le titre de chaque image 
+
+Pour la colormap : 
+(rouge vers violet ) <==> (max vers min) 
